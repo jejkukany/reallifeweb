@@ -1,2 +1,2 @@
 # reallifeweb
-Web: Realife.netlify.app
+Web: https://realife.netlify.app
